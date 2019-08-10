@@ -5,7 +5,7 @@ const https = require("https");
 
 // informar IP e Porta AWS
 const api = axios.create({
-  baseURL: "http://localhost:",
+  baseURL: "http://localhost",
   httpsAgent: new https.Agent({
     rejectUnauthorized: false
   })
