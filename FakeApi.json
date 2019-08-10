@@ -1,0 +1,80 @@
+{
+  "produtos": [
+    {
+      "idUnidade": 1,
+      "idSabor": 2,
+      "idTipo": 2,
+      "idMarca": 2,
+      "quantidade": "9234923",
+      "preco": "R99422",
+      "descricao": "eeieei",
+      "imagemProduto": "http://lorempixel.com/800/400/cats/",
+      "ativo": true,
+      "id": 1
+    },
+    {
+      "imagemProduto": "http://lorempixel.com/800/400/cats/",
+      "descricao": "kdfgkdfgklq4",
+      "preco": "R40400",
+      "quantidade": "0040404",
+      "idMarca": 1,
+      "idTipo": 2,
+      "idSabor": 1,
+      "idUnidade": 2,
+      "ativo": true,
+      "id": 2
+    }
+  ],
+  "marcas": [
+    {
+      "id": 1,
+      "descricao": "Pepsi"
+    },
+    {
+      "id": 2,
+      "descricao": "Jesus"
+    },
+    {
+      "id": 3,
+      "descricao": "Coca-Cola"
+    }
+  ],
+  "tipos": [
+    {
+      "id": 1,
+      "descricao": "Lata"
+    },
+    {
+      "id": 2,
+      "descricao": "Pet"
+    },
+    {
+      "id": 3,
+      "descricao": "Garrafa"
+    }
+  ],
+  "sabores": [
+    {
+      "id": 1,
+      "descricao": "Cola"
+    },
+    {
+      "id": 2,
+      "descricao": "Cajú"
+    },
+    {
+      "id": 3,
+      "descricao": "Guaraná"
+    }
+  ],
+  "unidades": [
+    {
+      "id": 1,
+      "descricao": "mL"
+    },
+    {
+      "id": 2,
+      "descricao": "L"
+    }
+  ]
+}
